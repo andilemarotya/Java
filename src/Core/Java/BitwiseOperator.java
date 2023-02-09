@@ -1,3 +1,5 @@
+package Core.Java;
+
 public class BitwiseOperator {
     public static void main(String[] args){
         //Initial values
